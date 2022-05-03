@@ -4,6 +4,46 @@
             "name": "涙目",
             "author": "tugaru",
             "resource": "tearyeye.png"
+        },
+        {
+            "name": "すごく痛い",
+            "author": "tugaru",
+            "resource": "axe.png"
+        },
+        {
+            "name": "めっちゃ痛い",
+            "author": "tugaru",
+            "resource": "knife.png"
+        },
+        {
+            "name": "いんぽすたぁ",
+            "author": "tugaru",
+            "resource": "imposter.png"
+        },
+        {
+            "name": "一目惚れ",
+            "author": "tugaru",
+            "resource": "Love.png"
+        },
+        {
+            "name": "アホ面",
+            "author": "tugaru",
+            "resource": "tearyeye.png"
+        },
+        {
+            "name": "顔...洗ってる?",
+            "author": "tugaru",
+            "resource": "spiderweb.png"
+        },
+        {
+            "name": "太陽が眩しい",
+            "author": "tugaru",
+            "resource": "sunglasses.png"
+        },
+        {
+            "name": "タバコは喫煙所で",
+            "author": "tugaru",
+            "resource": "tobacco.png"
         }
     ]
 }
