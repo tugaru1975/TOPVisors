@@ -1,84 +1,54 @@
-﻿{
+{
     "Visors": [
         {
-            "name": "涙目",
-            "author": "tugaru",
-            "resource": "tearyeye.png"
+            "name": "2進数の動作",
+            "author": "やちゃじゃくや",
+            "resource": "01001001.png"
         },
         {
-            "name": "すごく痛い",
-            "author": "tugaru",
-            "resource": "axe.png"
+            "name": "最初に必殺技を出せ",
+            "author": "やちゃじゃくや",
+            "resource": "BlueWye.png"
         },
         {
-            "name": "めっちゃ痛い",
-            "author": "tugaru",
-            "resource": "knife.png"
+            "name": "何も考えてない",
+            "author": "やちゃじゃくや",
+            "resource": "Dari.png"
         },
         {
-            "name": "いんぽすたぁ",
-            "author": "tugaru",
-            "resource": "imposter.png"
+            "name": "ディールメイカー",
+            "author": "やちゃじゃくや",
+            "resource": "DealMaker.png"
         },
         {
-            "name": "一目惚れ",
-            "author": "tugaru",
-            "resource": "Love.png"
+            "name": "Determination",
+            "author": "やちゃじゃくや",
+            "resource": "Determination.png"
         },
         {
-            "name": "アホ面",
-            "author": "tugaru",
-            "resource": "tearyeye.png"
+            "name": "HP",
+            "author": "やちゃじゃくや",
+            "resource": "HP.png"
         },
         {
-            "name": "顔...洗ってる?",
-            "author": "tugaru",
-            "resource": "spiderweb.png"
+            "name": "怒ってしまう",
+            "author": "やちゃじゃくや",
+            "resource": "Ikari.png"
         },
         {
-            "name": "太陽が眩しい",
-            "author": "tugaru",
-            "resource": "sunglasses.png"
+            "name": "R18",
+            "author": "やちゃじゃくや",
+            "resource": "R18.png"
         },
         {
-            "name": "タバコは喫煙所で",
-            "author": "tugaru",
-            "resource": "tobacco.png"
+            "name": "タスクRTA走者",
+            "author": "やちゃじゃくや",
+            "resource": "RTA.png"
         },
         {
-            "name": "猫のひげ",
-            "author": "tugaru",
-            "resource": "catwhisker.png"
+            "name": "白桜の花",
+            "author": "やちゃじゃくや",
+            "resource": "Sakura.png"
         },
-        {
-            "name": "犬のマネ!!",
-            "author": "tugaru",
-            "resource": "bone.png"
-        },
-        {
-            "name": "犬に乗っ取られた",
-            "author": "tugaru",
-            "resource": "dog.png"
-        },
-        {
-            "name": "アニ目みたい",
-            "author": "tugaru",
-            "resource": "bigeye.png"
-        },
-        {
-            "name": "SHINE",
-            "author": "tugaru",
-            "resource": "shine.png"
-        },
-        {
-            "name": "暗い道でも安心!!",
-            "author": "tugaru",
-            "resource": "ray.png"
-        },
-        {
-            "name": "目から銃",
-            "author": "tugaru",
-            "resource": "eyeandgun.png"
-        }
     ]
 }
