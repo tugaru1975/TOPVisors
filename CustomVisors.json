@@ -1,4 +1,4 @@
-﻿{
+{
     "Visors": [
         {
             "name": "涙目",
@@ -79,6 +79,56 @@
             "name": "目から銃",
             "author": "tugaru",
             "resource": "eyeandgun.png"
+        },
+        {
+            "name": "2進数の動作",
+            "author": "やちゃじゃくや",
+            "resource": "01001001.png"
+        },
+        {
+            "name": "最初に必殺技を出せ",
+            "author": "やちゃじゃくや",
+            "resource": "BlueWye.png"
+        },
+        {
+            "name": "何も考えてない",
+            "author": "やちゃじゃくや",
+            "resource": "Dari.png"
+        },
+        {
+            "name": "ディールメイカー",
+            "author": "やちゃじゃくや",
+            "resource": "DealMaker.png"
+        },
+        {
+            "name": "Determination",
+            "author": "やちゃじゃくや",
+            "resource": "Determination.png"
+        },
+        {
+            "name": "HP",
+            "author": "やちゃじゃくや",
+            "resource": "HP.png"
+        },
+        {
+            "name": "怒ってしまう",
+            "author": "やちゃじゃくや",
+            "resource": "Ikari.png"
+        },
+        {
+            "name": "R18",
+            "author": "やちゃじゃくや",
+            "resource": "R18.png"
+        },
+        {
+            "name": "タスクRTA走者",
+            "author": "やちゃじゃくや",
+            "resource": "RTA.png"
+        },
+        {
+            "name": "白桜の花",
+            "author": "やちゃじゃくや",
+            "resource": "Sakura.png"
         }
     ]
 }
