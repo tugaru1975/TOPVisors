@@ -88,7 +88,7 @@
         {
             "name": "最初に必殺技を出せ",
             "author": "やちゃじゃくや",
-            "resource": "BlueWye.png"
+            "resource": "BlueEye.png"
         },
         {
             "name": "何も考えてない",
@@ -129,6 +129,46 @@
             "name": "白桜の花",
             "author": "やちゃじゃくや",
             "resource": "Sakura.png"
+        },
+        {
+            "name": "ジト目",
+            "author": "やちゃじゃくや",
+            "resource": "Jitome.png"
+        },
+        {
+            "name": "眠ってしまう",
+            "author": "やちゃじゃくや",
+            "resource": "Nemuri.png"
+        },
+        {
+            "name": "にゅん",
+            "author": "やちゃじゃくや",
+            "resource": "Nyun.png"
+        },
+        {
+            "name": "しょぼん",
+            "author": "やちゃじゃくや",
+            "resource": "Syobon.png"
+        },
+        {
+            "name": "テンションMAX",
+            "author": "やちゃじゃくや",
+            "resource": "tentionmax.png"
+        },
+        {
+            "name": "OKしよう",
+            "author": "やちゃじゃくや",
+            "resource": "ok.png"
+        },
+        {
+            "name": "NOと言わなければ",
+            "author": "やちゃじゃくや",
+            "resource": "No.png"
+        },
+        {
+            "name": "誕生日おめでとう",
+            "author": "やちゃじゃくや",
+            "resource": "HappyBirthdayToME.png"
         }
     ]
 }
