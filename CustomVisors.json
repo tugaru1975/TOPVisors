@@ -169,6 +169,21 @@
             "name": "誕生日おめでとう",
             "author": "やちゃじゃくや",
             "resource": "HappyBirthdayToME.png"
+        },
+        {
+            "name": "黒目線",
+            "author": "やちゃじゃくや",
+            "resource": "BlackMesen.png"
+        },
+        {
+            "name": "たばこ",
+            "author": "やちゃじゃくや",
+            "resource": "tabako.png"
+        }.
+        ,{
+            "name": "虚無",
+            "author": "やちゃじゃくや",
+            "resource": "VoidFace.png"
         }
     ]
 }
