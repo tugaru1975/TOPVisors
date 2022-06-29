@@ -181,9 +181,19 @@
             "resource": "tabako.png"
         },
         {
-            "name": "虚無",
+            "name": "骨が刺さった",
             "author": "やちゃじゃくや",
-            "resource": "VoidFace.png"
+            "resource": "BoneEye.png"
+        },
+        {
+            "name": "キメ顔",
+            "author": "やちゃじゃくや",
+            "resource": "Kime.png"
+        },
+        {
+            "name": "疑い",
+            "author": "やちゃじゃくや",
+            "resource": "utagaimayu.png"
         }
     ]
 }
