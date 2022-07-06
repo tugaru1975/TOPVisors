@@ -81,6 +81,57 @@
             "resource": "eyeandgun.png"
         },
         {
+            "name": "ふきだし",
+            "author": "tugaru",
+            "resource": "balloon.png"
+        },
+        {
+            "name": "寒気を感じる",
+            "author": "tugaru",
+            "resource": "blueflame.png"
+        },
+        {
+            "name": "ぼーん",
+            "author": "tugaru",
+            "resource": "BOMB.png"
+        },
+        {
+            "name": "雲に乗れた",
+            "author": "tugaru",
+            "resource": "cloud.png"
+        },
+        {
+            "name": "犬と一緒",
+            "author": "tugaru",
+            "resource": "dogbox.png"
+            "flipresource": "dogbox_flip.png"
+        },
+        {
+            "name": "キーホルダー",
+            "author": "tugaru",
+            "resource": "keyring.png"
+        },
+        {
+            "name": "ネギ",
+            "author": "tugaru",
+            "resource": "negi.png"
+        },
+        {
+            "name": "いざ大海原へ",
+            "author": "tugaru",
+            "resource": "SailBoat.png"
+        },
+        {
+            "name": "にやぁ",
+            "author": "tugaru",
+            "resource": "smileface.png"
+        },
+        {
+            "name": "ぶえっくしょいッ!!",
+            "author": "tugaru",
+            "resource": "towel.png"
+        },
+        {
             "name": "2進数の動作",
             "author": "やちゃじゃくや",
             "resource": "01001001.png"
@@ -169,6 +220,31 @@
             "name": "誕生日おめでとう",
             "author": "やちゃじゃくや",
             "resource": "HappyBirthdayToME.png"
+        },
+        {
+            "name": "黒目線",
+            "author": "やちゃじゃくや",
+            "resource": "BlackMesen.png"
+        },
+        {
+            "name": "よく見かけそうなもの",
+            "author": "やちゃじゃくや",
+            "resource": "tabako.png"
+        },
+        {
+            "name": "骨が刺さった",
+            "author": "やちゃじゃくや",
+            "resource": "BoneEye.png"
+        },
+        {
+            "name": "キメ顔",
+            "author": "やちゃじゃくや",
+            "resource": "Kime.png"
+        },
+        {
+            "name": "疑い",
+            "author": "やちゃじゃくや",
+            "resource": "utagaimayu.png"
         }
     ]
 }
