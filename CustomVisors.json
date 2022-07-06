@@ -169,6 +169,31 @@
             "name": "誕生日おめでとう",
             "author": "やちゃじゃくや",
             "resource": "HappyBirthdayToME.png"
+        },
+        {
+            "name": "黒目線",
+            "author": "やちゃじゃくや",
+            "resource": "BlackMesen.png"
+        },
+        {
+            "name": "よく見かけそうなもの",
+            "author": "やちゃじゃくや",
+            "resource": "tabako.png"
+        },
+        {
+            "name": "骨が刺さった",
+            "author": "やちゃじゃくや",
+            "resource": "BoneEye.png"
+        },
+        {
+            "name": "キメ顔",
+            "author": "やちゃじゃくや",
+            "resource": "Kime.png"
+        },
+        {
+            "name": "疑い",
+            "author": "やちゃじゃくや",
+            "resource": "utagaimayu.png"
         }
     ]
 }
