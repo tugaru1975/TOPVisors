@@ -103,7 +103,7 @@
         {
             "name": "犬と一緒",
             "author": "tugaru",
-            "resource": "dogbox.png"
+            "resource": "dogbox.png",
             "flipresource": "dogbox_flip.png"
         },
         {
