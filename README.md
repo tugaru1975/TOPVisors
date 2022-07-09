@@ -1,4 +1,5 @@
 # 自作バイザーの追加方法
+**自身のプロジェクトを作成せずに簡易的に追加したい方は[こちら](#自作バイザーの試し方)を利用することも可能です**
 ### 1.このリポジトリを[Fork](https://github.com/tugaru1975/TOPVisors/fork)する
 ### 2.Forkしたリポジトリの`Visors`に自作したバイザースキンをアップロード
 ### 3.アップロードしたら`CustomVisors.json`にコードを追加する
@@ -6,7 +7,8 @@
         {
             "name": "題名",
             "author": "制作者名",
-            "resource": "バイザーの画像名.png"
+            "resource": "バイザーの画像名.png",
+            "flipresource": "バイザーの_flip用の画像名.png"
         },
 ```  
 **※いらないコードは消してください**  
@@ -15,6 +17,7 @@
 `"name"` : バイザーの題名  
 `"author"` : 制作者名  
 `"resource"` : バイザー画像を決められる。  
+`"flipresource"` : クルーの反対向きでのバイザー画像を決められる。    
 ### 4.TOPに対応させる
 AmongUsファイルのデフォルト状態なら  
 Steam : `C:\Program Files (x86)\Steam\steamapps\common\Among Us`  
@@ -26,8 +29,8 @@ Epic : `C:\Program Files (x86)\Epic Games\AmongUs`にある、
 [VisorURL]
 
 # Setting type: String
-# Default value: https://raw.githubusercontent.com/tugaru1975/TOPVisors/master,https://raw.githubusercontent.com/ユーザー名/プロジェクト名/master
-VisorURL = https://raw.githubusercontent.com/tugaru1975/TOPVisors/master,https://raw.githubusercontent.com/ユーザー名/プロジェクト名/master
+# Default value: https://raw.githubusercontent.com/ユーザー名/プロジェクト名/master
+VisorURL = https://raw.githubusercontent.com/ユーザー名/プロジェクト名/master
 ```  
 という部分があるので`/ユーザー名/`と`/プロジェクト名/`の部分をそれぞれ自身のgithubユーザー名とプロジェクト名(デフォルトは`TOPVisors`)にしてください。  
 **`.txt`にしている場合は`.cfg`に戻してください。**  
@@ -39,4 +42,5 @@ VisorURL = https://raw.githubusercontent.com/tugaru1975/TOPVisors/master,https:/
 AmongUsファイルのデフォルト状態なら  
 Steam : `C:\Program Files (x86)\Steam\steamapps\common\Among Us`  
 Epic : `C:\Program Files (x86)\Epic Games\AmongUs`にある、  
-`TownOfPlus`>`SkinTest`のなかに自作したバイザー画像を入れると試すことが可能です。
+`TownOfPlus`>`SkinTest`>`VisorTest`のなかに自作したバイザー画像を入れると、コスチュームメニューに自作スキンが追加され、試すことが可能です。  
+この時`バイザー名_flip.png`のようにすると[コマンド](#コードの説明)を対応させることが出来ます。
