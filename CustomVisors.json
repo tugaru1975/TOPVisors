@@ -28,7 +28,7 @@
         {
             "name": "アホ面",
             "author": "tugaru",
-            "resource": "tearyeye.png"
+            "resource": "sillyeye.png"
         },
         {
             "name": "顔...洗ってる?",
@@ -79,6 +79,57 @@
             "name": "目から銃",
             "author": "tugaru",
             "resource": "eyeandgun.png"
+        },
+        {
+            "name": "ふきだし",
+            "author": "tugaru",
+            "resource": "balloon.png"
+        },
+        {
+            "name": "寒気を感じる",
+            "author": "tugaru",
+            "resource": "blueflame.png"
+        },
+        {
+            "name": "ぼーん",
+            "author": "tugaru",
+            "resource": "BOMB.png"
+        },
+        {
+            "name": "雲に乗れた",
+            "author": "tugaru",
+            "resource": "cloud.png"
+        },
+        {
+            "name": "犬と一緒",
+            "author": "tugaru",
+            "resource": "dogbox.png",
+            "flipresource": "dogbox_flip.png"
+        },
+        {
+            "name": "キーホルダー",
+            "author": "tugaru",
+            "resource": "keyring.png"
+        },
+        {
+            "name": "ネギ",
+            "author": "tugaru",
+            "resource": "negi.png"
+        },
+        {
+            "name": "いざ大海原へ",
+            "author": "tugaru",
+            "resource": "SailBoat.png"
+        },
+        {
+            "name": "にやぁ",
+            "author": "tugaru",
+            "resource": "smileface.png"
+        },
+        {
+            "name": "ぶえっくしょいッ!!",
+            "author": "tugaru",
+            "resource": "towel.png"
         },
         {
             "name": "2進数の動作",
@@ -133,7 +184,7 @@
         {
             "name": "ジト目",
             "author": "やちゃじゃくや",
-            "resource": "Jitome.png"
+            "resource": "jitome.png"
         },
         {
             "name": "眠ってしまう",
