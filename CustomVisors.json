@@ -245,6 +245,31 @@
             "name": "疑い",
             "author": "やちゃじゃくや",
             "resource": "utagaimayu.png"
+        },
+        {
+            "name": "ビッグアイ",
+            "author": "やちゃじゃくや",
+            "resource": "BigEye.png"
+        }.
+        {
+            "name": "噛むぞ",
+            "author": "やちゃじゃくや",
+            "resource": "Bite.png"
+        }.
+        {
+            "name": "口角無限大",
+            "author": "やちゃじゃくや",
+            "resource": "KoukakuInf.png"
+        }.
+        {
+            "name": "中からこんにちは",
+            "author": "やちゃじゃくや",
+            "resource": "Nyoki.png"
+        }.
+        {
+            "name": "これこそ無表情",
+            "author": "やちゃじゃくや",
+            "resource": "Poyapoya.png"
         }
     ]
 }
